@@ -1,0 +1,4 @@
+galaxy_info:
+  role_name: arch_gui
+  author: Lawrence Andrews
+  description: Installs i3 onto a base arch install
