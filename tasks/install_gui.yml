@@ -4,6 +4,7 @@
   package:
     name:
       - xorg-server
+      - xorg-xrandr
       - xf86-video-intel
       - xorg-xinit
       - lightdm-gtk-greeter
